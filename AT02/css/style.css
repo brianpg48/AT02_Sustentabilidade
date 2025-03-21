@@ -1,0 +1,192 @@
+body{
+    overflow: hidden;
+}
+header{
+    background-color: deepskyblue;
+    width: 1500px;
+    height: 100px;
+    position: relative;
+    left: 2.5%;
+}
+nav{
+    width: 200px;
+    height: 500px;
+    background-color: aquamarine;
+    position: relative;
+    left: 50px;
+    bottom: -19px;
+}
+main{
+    background-color: deeppink;
+    width: 1035px;
+    height: 500px;
+    position: relative;
+    left: 15%;
+    bottom: 480px;
+}
+footer{
+    background-color: deepskyblue;
+    width: 1500px;
+    height: 100px;
+    position: relative;
+    left: 2.5%;
+    bottom:460px ;
+}
+.sidebar{
+    background-color: aquamarine;
+    width: 200px;
+    height: 500px;
+    position: relative;
+    bottom: 1080px;
+    left: 70.2%;
+}
+.bi-instagram{
+    width: 50px;
+    height: 55px;
+    position: relative;
+    left: 30%;
+    top: 10%;
+}
+.bi-threads{
+    width: 50px;
+    height: 55px;
+    position: relative;
+    left: 45%;
+    top: 10%;
+}
+.bi-facebook{
+    width: 50px;
+    height: 55px;
+    position: relative;
+    left: 60%;
+    color: blue;
+    top: 10%;
+}
+.bi-search{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 97%;
+}
+.bi-list{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: 1%;
+    top: 20px;
+}
+.bi-gear{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 87%;
+}
+.bi-cart{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 15%;
+}
+.bi-person{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 35%;
+    right: 23%;
+}
+.bi-star{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 55%;
+    right: 45%;
+}
+.bi-fire{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 76%;
+    right: 67%;
+}
+p{
+    position: relative;
+    padding-bottom: 45px;
+}
+.carr{
+    position: relative;
+    left: 24%;
+    top: 9%;
+}
+.perf{
+    position: relative;
+    left: 24%;
+    top: 12%;
+}
+.favo{
+    position: relative;
+    left: 24%;
+    top: 15%;
+}
+.em-alta{
+    position: relative;
+    left: 24%;
+    top: 20%;
+}
+.bi-bell{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 97%;
+}
+.bi-chat-dots{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 90%;
+}
+.bi-share-fill{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 83%;
+}
+.bi-person-add{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 76%;
+}
+.bi-reddit{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 15%;
+    left: 36%;
+}
+.bi-whatsapp{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 35%;
+    left: 14%;
+}
+.bi-snapchat{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 55%;
+    right: 8%;
+}
+.bi-youtube{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 76%;
+    right: 30%;
+}
+p{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
